@@ -66,3 +66,5 @@ dist
 .publish
 
 package-lock.json
+
+yarn.lock
